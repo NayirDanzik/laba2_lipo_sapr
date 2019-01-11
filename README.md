@@ -1,0 +1,1 @@
+# laba2_lipo_sapr
