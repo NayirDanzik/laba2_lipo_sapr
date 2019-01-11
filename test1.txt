@@ -1,0 +1,31 @@
+// 10 unique libraries
+
+#include <stddef.h>
+#include "lipo.h"
+#include <errno.h>
+#include "hello.h"
+#include <stdarg.h>
+#include <errno.h>
+#include <float.h>
+#include <stdarg.h>
+#include "sapr.h"
+#include <wctype.h>
+#include "lipo.h"
+#include "hi.h"
+#include <errno.h>
+#include <stdarg.h>
+#include <time.h>
+#include "hi.h"
+#include <wctype.h>
+#include "sapr.h"
+#include <stdarg.h>
+#include <stddef.h>
+
+// Bad libraries
+#include .h
+#include header.h
+#include_header_h
+#include header.h.h.h
+#include <defines.g>
+#include <hhhhh.c>
+#include <hhhhh.cpp>

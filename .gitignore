@@ -1,0 +1,5 @@
+obj/*
+temp/*
+
+bin/HeaderCount
+bin/HeaderCountTests
